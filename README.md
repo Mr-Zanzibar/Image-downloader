@@ -1,2 +1,2 @@
-# Immage-downloader
-Immage downloader
+# Image-downloader
+Image downloader
